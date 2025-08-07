@@ -1,9 +1,7 @@
-flask
-faiss-cpu
-llama-cpp-python
+streamlit
 langchain
 sentence-transformers
+transformers
+faiss-cpu
 PyPDF2
 python-docx
-unstructured
-streamlit
