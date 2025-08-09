@@ -1,7 +1,15 @@
 streamlit
-langchain
+fastapi
+uvicorn
+requests
+cohere
+langchain==0.1.14
+langchain-community==0.0.30
 sentence-transformers
-transformers
 faiss-cpu
+PyPDF2
+python-docx
+llama-cpp-python==0.2.87
+huggingface-hub
 PyPDF2
 python-docx
